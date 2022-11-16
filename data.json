@@ -1,0 +1,129 @@
+{
+  "applications": [
+    {
+      "title": "apache/incubator-teaclave",
+      "url": "https://github.com/apache/incubator-teaclave",
+      "description": "open source universal secure computing platform, making computation on privacy-sensitive data safe and simple"
+    },
+    {
+      "title": "bottlerocket-os/bottlerocket",
+      "url": "https://github.com/bottlerocket-os/bottlerocket",
+      "description": "an operating system designed for hosting containers"
+    },
+    {
+      "title": "containers/krunvm",
+      "url": "https://github.com/containers/krunvm",
+      "description": "manage lightweight VMs created from OCI images"
+    },
+    {
+      "title": "containers/youki",
+      "url": "https://github.com/containers/youki",
+      "description": "a container runtime written in Rust"
+    },
+    {
+      "title": "datafuselabs/datafuse",
+      "url": "https://github.com/datafuselabs/datafuse",
+      "description": "A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy"
+    },
+    {
+      "title": "firecracker-microvm/firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "secure and fast microVMs for serverless computing"
+    },
+    {
+      "title": "infinyon/fluvio",
+      "url": "https://github.com/infinyon/fluvio",
+      "description": "A cloud-native real-time data streaming platform with in-line computation capabilities"
+    },
+    {
+      "title": "krustlet/krustlet",
+      "url": "https://github.com/krustlet/krustlet",
+      "description": "Kubernetes Rust Kubelet"
+    },
+    {
+      "title": "kube-rs/controller-rs",
+      "url": "https://github.com/kube-rs/controller-rs",
+      "description": "a Kubernetes example controller"
+    },
+    {
+      "title": "kube-rs/version-rs",
+      "url": "https://github.com/kube-rs/version-rs",
+      "description": "example Kubernetes reflector and web server"
+    },
+    {
+      "title": "kubewarden/policy-server",
+      "url": "https://github.com/kubewarden/policy-server",
+      "description": "webhook server that evaluates WebAssembly policies to validate Kubernetes requests"
+    },
+    {
+      "title": "linkerd/linkerd2-proxy",
+      "url": "https://github.com/linkerd/linkerd2-proxy",
+      "description": "a purpose-built proxy for the Linkerd service mesh"
+    },
+    {
+      "title": "openebs/mayastor",
+      "url": "https://github.com/openebs/mayastor",
+      "description": "A cloud native declarative data plane in containers for containers"
+    },
+    {
+      "title": "rancher-sandbox/lockc",
+      "url": "https://github.com/rancher-sandbox/lockc",
+      "description": "eBPF-based MAC security audit for container workloads"
+    },
+    {
+      "title": "tikv/tikv",
+      "url": "https://github.com/tikv/tikv",
+      "description": "distributed transactional key-value database"
+    },
+    {
+      "title": "tremor-rs/tremor-runtime",
+      "url": "https://github.com/tremor-rs/tremor-runtime",
+      "description": "an event processing system that supporting complex workflows such as aggregation, rollups, an ETL language, and a query language"
+    },
+    {
+      "title": "valeriansaliou/sonic",
+      "url": "https://github.com/valeriansaliou/sonic",
+      "description": "fast, lightweight & schema-less search backend"
+    },
+    {
+      "title": "WasmEdge/WasmEdge",
+      "url": "https://wasmedge.org",
+      "description": "WasmEdge is a high-performance WebAssembly (Wasm) Virtual Machine (VM) runtime, which enables serverless functions to be embedded into any software platform; from cloud's edge to SaaS to automobiles"
+    }
+  ],
+  "libraries": [
+    {
+      "title": "CNI Plugins",
+      "url": "https://github.com/passcod/cni-plugins",
+      "description": "crate/framework to write CNI (container networking) plugins in Rust (includes a few custom plugins as well)"
+    },
+    {
+      "title": "containers/libkrun",
+      "url": "https://github.com/containers/libkrun",
+      "description": "a dynamic library providing Virtualization-based process isolation capabilities"
+    },
+    {
+      "title": "kube-rs/kube-rs",
+      "url": "https://github.com/kube-rs/kube-rs",
+      "description": "Kubernetes Rust client and async controller runtime"
+    },
+    {
+      "title": "qovery/engine",
+      "url": "https://github.com/Qovery/engine",
+      "description": "An open-source abstraction layer library that turns easy apps deployment on AWS, GCP, Azure, and other Cloud providers"
+    },
+    {
+      "title": "open-telemetry/opentelemetry-rust",
+      "url": "https://github.com/open-telemetry/opentelemetry-rust",
+      "description": "OpenTelemetry is a set of APIs, SDKs, tooling and integrations that are designed for the creation and management of telemetry data such as traces, metrics, and logs."
+    }
+  ],
+  "events": [
+    {
+      "title": "Cloud Native Rust Day EU 2021",
+      "url": "https://www.youtube.com/playlist?list=PLj6h78yzYM2MKPAas7pxIvueTbwFqVRCX",
+      "description": "the first-ever Cloud Native Rust Day (at KubeCon + CloudNativeCon EU 2021)"
+    }
+  ]
+}
+

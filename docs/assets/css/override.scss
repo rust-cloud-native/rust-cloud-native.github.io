@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+.cdf {
+width: 12px;
+filter: invert(0%) sepia(8%) saturate(730%) hue-rotate(339deg) brightness(96%) contrast(87%);
+vertical-align: middle;
+}
